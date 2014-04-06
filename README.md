@@ -1,0 +1,4 @@
+gama_management
+===============
+
+init
